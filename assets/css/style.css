@@ -70,7 +70,7 @@
 }
 .icon-cart i {
     display: inline-block;
-    float: left;
+    /* float: left; */
     color: #2f2f2f;
     font-size: 26px;
 }
@@ -465,7 +465,7 @@
 }
 .main-menu > nav > ul > li > ul.mega-menu > li {
     width: 33.333%;
-    float: left;
+    /* float: left; */
     display: inline-block;
 }
 .main-menu > nav > ul > li > ul.mega-menu > li.mega-menu-img {
@@ -644,7 +644,7 @@
     -webkit-animation-fill-mode: both;
     animation-fill-mode: both;
 }
-.owl-item.active .slider-content * {}
+/* .owl-item.active .slider-content * {} */
 .owl-item.active .slider-animated-1 h5 {
     -webkit-animation-delay: 0.7s;
     animation-delay: 0.7s;
@@ -804,7 +804,7 @@
 .question-icon {
     background-color: #ffb52f;
     display: inline-block;
-    float: left;
+    /* float: left; */
     padding: 10px 14px 10px 13px;
 }
 .question-icon i {
@@ -2190,7 +2190,7 @@ h3.sidebar-widget {
 .label-input label {
     color: #828282;
     display: inline-block;
-    float: left;
+    /* float: left; */
     font-size: 14px;
     letter-spacing: 0.4px;
     margin: 0;
@@ -2208,7 +2208,7 @@ h3.sidebar-widget {
 }
 .label-input {
     display: inline-block;
-    float: left;
+    /* float: left; */
     margin-top: 5px;
 }
 .price_slider_amount > button {
@@ -2216,7 +2216,7 @@ h3.sidebar-widget {
     border: medium none;
     color: #fff;
     display: inline-block;
-    float: right;
+    /* float: right; */
     font-weight: 500;
     line-height: 1;
     padding: 9px 22px 7px;
@@ -2329,12 +2329,12 @@ h3.sidebar-widget {
 }
 .compare-text {
     display: inline-block;
-    float: left;
+    /* float: left; */
     margin-top: 8px;
 }
 .compare-btn {
     display: inline-block;
-    float: right;
+    /* float: right; */
 }
 .compare-btn a {
     background-color: #555555;
@@ -2354,7 +2354,7 @@ h3.sidebar-widget {
 }
 .best-seller-img {
     display: inline-block;
-    float: left;
+    /* float: left; */
 }
 .single-best-seller {
     display: block;
@@ -2482,7 +2482,7 @@ button.product-filter-toggle:hover,
 /* shop list */
 .product-list.product-list-width-3 .product-width {
     flex: 0 0 33.333%;
-    max-width: 33.333%%;
+    max-width: 33.333%;
 }
 .product-list-width-3 .product-list-details > h2 {
     font-size: 20px;
@@ -3113,7 +3113,7 @@ p.lost-password a:hover {
 .coupon-info p {
     margin-bottom: 0
 }
-.coupon-info p.form-row-first {}
+/* .coupon-info p.form-row-first {} */
 .coupon-info p.form-row-first label,
 .coupon-info p.form-row-last label {
     display: block;
@@ -3132,7 +3132,7 @@ p.lost-password a:hover {
     width: 370px;
     background-color: transparent;
 }
-.coupon-info p.form-row-last {}
+/* .coupon-info p.form-row-last {} */
 .coupon-info p.form-row input[type="submit"]:hover,
 p.checkout-coupon input[type="submit"]:hover {
     background: #ffb52f none repeat scroll 0 0;
@@ -3226,7 +3226,7 @@ p.checkout-coupon input[type="submit"] {
 .checkout-form-list label {
     color: #444;
 }
-.checkout-form-list label span.required {}
+/* .checkout-form-list label span.required {} */
 .checkout-form-list input[type=text],
 .checkout-form-list input[type=password],
 .checkout-form-list input[type=email] {
@@ -3257,7 +3257,7 @@ p.checkout-coupon input[type="submit"] {
     color: #333;
     display: inline-block;
 }
-.checkout-form-list input[type=password] {}
+/* .checkout-form-list input[type=password] {} */
 .create-account {
     display: none
 }
@@ -3385,7 +3385,7 @@ p.checkout-coupon input[type="submit"] {
     box-shadow: none;
     color: #fff;
     display: inline-block;
-    float: left;
+    /* float: left; */
     font-size: 14px;
     height: 40px;
     line-height: 40px;
@@ -3583,7 +3583,7 @@ p.checkout-coupon input[type="submit"] {
 }
 .blog-dec-tags > span , .blog-dec-social > span {
     display: inline-block;
-    float: left;
+    /* float: left; */
     font-weight: 500;
     margin-right: 10px;
     text-transform: uppercase;
@@ -3653,7 +3653,7 @@ p.checkout-coupon input[type="submit"] {
 }
 .blog-comment-img {
     display: inline-block;
-    float: left;
+    /* float: left; */
 }
 .blog-comment-content {
     display: block;
